@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PrisonersDontHaveKeys.PrisonersDontHaveKeysModSettings">
+		<AppliesForSlaves>True</AppliesForSlaves>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterPawnControl.Settings">
+		<AutomaticPawnsInterrupt>True</AutomaticPawnsInterrupt>
+		<DisableBPCOnWork>False</DisableBPCOnWork>
+		<DisableBPCWorkTabInnerPriorities>False</DisableBPCWorkTabInnerPriorities>
+		<SettingsWindowPosX>210</SettingsWindowPosX>
+		<SettingsWindowPosY>121</SettingsWindowPosY>
+		<SettingsWindowWidth>1600</SettingsWindowWidth>
+		<SettingsWindowHeight>870</SettingsWindowHeight>
+	</ModSettings>
+</SettingsBlock>

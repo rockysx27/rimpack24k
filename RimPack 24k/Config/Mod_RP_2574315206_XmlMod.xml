@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="XmlExtensions.XmlModBaseSettings">
+		<dataDict>
+			<keys>
+				<li>vat.epoeforked;ComponentCrafting</li>
+				<li>vat.epoeforked;CraftingMethod</li>
+				<li>vat.epoeforked;EMP_Toggle</li>
+				<li>vat.epoeforked;ForcedLimbRemoval</li>
+				<li>vat.epoeforked;AddOldProstheticWorkbench</li>
+				<li>vat.epoeforked;RemoveWorkbench</li>
+				<li>vat.epoeforked;EPOETextures</li>
+				<li>vat.epoeforked;LegacyMode</li>
+				<li>vat.epoeforked;OptimizerThoughts_Transhumanists</li>
+				<li>vat.epoeforked;OrgansCanRotOption</li>
+				<li>vat.epoeforked;OriginalEPOE</li>
+				<li>vat.epoeforked;RemoveTongueBeautyTag</li>
+				<li>vat.epoeforked;VanillaBionicEyesFace</li>
+				<li>vat.epoeforked;DE_SurgeryPatch</li>
+				<li>Victor.WallsAreSolid;Mode_Setting</li>
+				<li>Victor.WallsAreSolid;Buildings_Toggle</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>0</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>false</li>
+				<li>1</li>
+				<li>True</li>
+			</values>
+		</dataDict>
+		<PinnedMods />
+		<trace>True</trace>
+		<standardMods>True</standardMods>
+	</ModSettings>
+</SettingsBlock>

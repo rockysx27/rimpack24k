@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GraphicSetter.GraphicsSettings">
+		<settings>
+			<anisoLevel>3</anisoLevel>
+			<useMipMap>True</useMipMap>
+			<useAntiA>True</useAntiA>
+			<filterMode>Bilinear</filterMode>
+			<mipMapBias>0.5</mipMapBias>
+			<pawnTexResScale>4</pawnTexResScale>
+		</settings>
+	</ModSettings>
+</SettingsBlock>

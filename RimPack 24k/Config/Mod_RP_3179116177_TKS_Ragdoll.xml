@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TKS_Ragdoll.TKS_RagdollSettings">
+		<adjust>1</adjust>
+		<adjustByMass>True</adjustByMass>
+	</ModSettings>
+</SettingsBlock>
